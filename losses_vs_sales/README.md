@@ -1,6 +1,4 @@
-# **POWER BI REPORTS**.
-
-## **Inventory losses**.
+# **Inventory losses**.
 
      In this initial report, I downloaded all inventory loss data from Inventiva ERP to an XML file. Subsequently, I embarked on
      modeling in Power Query, establishing connections, applying DAX formulas, and constructing visualizations to present crucial
@@ -12,7 +10,7 @@
 
 ![alt text](image-5.png)
 
-### DAX formulas for this report. ###
+## DAX formulas for this report.
 
 ![alt text](image-3.png)
 
