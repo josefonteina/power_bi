@@ -1,6 +1,6 @@
-# **Inventory losses**.
+# **Shipment tracking report**.
 
-     In this initial report, I downloaded all inventory loss data from Inventiva ERP to an XML file. Subsequently, I embarked on
+     In this report, I downloaded all shipment tracking data from Inventiva ERP to an XML file. Subsequently, I embarked on
      modeling in Power Query, establishing connections, applying DAX formulas, and constructing visualizations to present crucial
      information for business decisions.
 
@@ -8,13 +8,18 @@
 
 ## DAX formulas for this report.
 
-![alt text](image-3.png)
+![alt text](image-1.png)
 
 > [!NOTE]
-> To illustrate the variation between the current month and the previous month, you can calculate the percentage change using
- this formula.
+> Formula to calculate the total sum of partial merchandise returns.
 
 ![alt text](image-2.png)
 
 > [!NOTE]
-> Percentage of losses incurred in relation to the total sales revenue.
+> Formula to calculate the total sum of total merchandise returns.
+
+![alt text](image-3.png)
+
+> [!NOTE]
+> To calculate the days elapsed between the shipment date and the delivery date.
+
