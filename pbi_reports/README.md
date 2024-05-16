@@ -23,4 +23,3 @@
 
 > [!NOTE]
 > Losses percentage on sales.
-
