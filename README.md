@@ -1,2 +1,2 @@
 # power_bi
-My power BI reports showing experience using data visualization software.
+My power BI reports showcase experience using data visualization software.
